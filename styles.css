@@ -135,8 +135,8 @@ color: #00A8CC;
 /* feature section */
 .featurework{
     max width: 960px;
-    margin: auto;
-    margin-left :148px;
+    margin:auto;
+    margin-left : 148px;
 }
 .featurework .secondfeaturesection {
     display: flex;
@@ -184,5 +184,6 @@ footer {
 footer .icon{
     display: flex;
     justify-content: center;
+    gap: 20px;
 
 }
